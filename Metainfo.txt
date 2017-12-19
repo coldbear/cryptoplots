@@ -1,4 +1,4 @@
-Name of Quantlet:  Cryptoplots.R
+Name of Quantlet:  CRIX_plots.R
  
 Published in:      Pythia (Raphael Reule)
   
